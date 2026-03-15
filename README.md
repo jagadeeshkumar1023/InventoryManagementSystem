@@ -1,45 +1,59 @@
 Inventory Management System
 
-Project Description
+📌 Project Overview
 
-This is a C# Windows Forms Inventory Management System developed using .NET Framework and SQL Server.
-The application helps manage products, suppliers, billing, and sales history.
+The Inventory Management System is a desktop application developed using C# Windows Forms and SQL Server.
+This system helps businesses manage products, suppliers, and billing operations efficiently.
 
-Features
+It allows users to add, update, delete, and view inventory records while maintaining accurate stock information.
 
-- User Login System
-- Product Management
-- Supplier Management
-- Billing System
-- Sales History
-- Low Stock Alert
-- Dashboard Overview
+---
 
-Technologies Used
+🚀 Features
+
+- 🔐 User Login System
+- 📦 Product Management
+  - Add Products
+  - Update Products
+  - Delete Products
+  - View Product List
+- 🚚 Supplier Management
+  - Add Supplier
+  - Update Supplier
+  - Delete Supplier
+- 🧾 Billing System
+  - Generate bills
+  - Record sales transactions
+- 📊 Stock Management
+  - Track product quantities
+- 🖥 User-Friendly Interface
+
+---
+
+🛠 Technologies Used
 
 - C#
 - .NET Windows Forms
 - SQL Server
 - ADO.NET
+- Visual Studio
 
-Project Structure
+---
 
-- Forms – UI forms like Billing, Product, Supplier
-- DataAccess – Database connection and queries
-- Properties – Project resources
-- Program.cs – Application entry point
+🗄 Database
 
-How to Run
+The system uses SQL Server to store data.
 
-1. Open the project in Visual Studio
-2. Configure SQL Server connection in App.config
-3. Run the project
+Main Tables:
 
-Author
+- Users
+- Products
+- Suppliers
+- Bills / Sales
 
-Jagadeesh Kumar
+---
 
-Application Screenshots
+📷 Application Screenshots
 
 Billing System
 
@@ -60,3 +74,42 @@ Low Stock Alert
 Sales History
 
 "Sales" (Screenshots/sales.png)
+
+---
+
+⚙️ How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/jagadeeshkumar1023/InventoryManagementSystem.git
+
+2. Open the project in Visual Studio
+
+3. Configure the SQL Server database connection
+
+4. Run the project
+
+---
+
+📚 Learning Outcomes
+
+Through this project I learned:
+
+- Windows Forms application development
+- Database connectivity using ADO.NET
+- CRUD operations with SQL Server
+- Designing desktop user interfaces
+- Implementing inventory and billing logic
+
+---
+
+👨‍💻 Author
+
+Jagadeesh Kumar
+
+GitHub:
+https://github.com/jagadeeshkumar1023
+
+---
+
+⭐ If you like this project, feel free to star the repository.
