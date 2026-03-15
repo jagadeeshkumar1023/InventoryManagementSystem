@@ -38,3 +38,25 @@ How to Run
 Author
 
 Jagadeesh Kumar
+
+Application Screenshots
+
+Billing System
+
+"Billing" (Screenshots/billing.png)
+
+Product Management
+
+"Product" (Screenshots/product.png)
+
+Supplier Management
+
+"Supplier" (Screenshots/supplier.png)
+
+Low Stock Alert
+
+"Low Stock" (Screenshots/lowstock.png)
+
+Sales History
+
+"Sales" (Screenshots/sales.png)
